@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/My Drive/Traffic-Sign-Classifier/Traffic-Sign-Classifier/trained/last_test2/lenet"
+all_model_checkpoint_paths: "/content/drive/My Drive/Traffic-Sign-Classifier/Traffic-Sign-Classifier/trained/last_test2/lenet"
